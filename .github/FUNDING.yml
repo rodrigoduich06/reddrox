@@ -1,11 +1,11 @@
 # These are supported funding model platforms
 github: [REDDRoX]
-patreon: # Replace 
-open_collective: # Replace with a single Open Collective username
-ko_fi: # Replace with a single Ko-fi username
-tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay: # Replace with a single Liberapay username
-issuehunt: # Replace with a single IssueHunt username
-otechie: # Replace with a single Otechie username
+patreon: [REDDRoX]
+open_collective: [REDDRoX]
+ko_fi: [REDDRoX]
+tidelift: [REDDRoX]
+community_bridge: [REDDRoX]
+liberapay: [REDDRoX]
+issuehunt: [REDDRoX]
+otechie: [REDDRoX]
 custom: ['REDRRoX.COM', 'https://github.com/REDDRoX/TheMystic-Bot-MD','REDRRoX.COM']
