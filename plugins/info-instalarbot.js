@@ -10,7 +10,7 @@ const handler = async (m, {conn, usedPrefix}) => {
 
 ------------------------------------
 —◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻-𝚃𝙴𝚁𝙼𝚄𝚇
-> https://youtu.be/yRS4m36Zwkw
+> https://youtu.be/yRS4m3wkw
 
 ------------------------------------
 
@@ -19,7 +19,7 @@ const handler = async (m, {conn, usedPrefix}) => {
 - cd && termux-setup-storage
 - apt-get update -y && apt-get upgrade -y
 - pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
-- git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD.git && cd TheMystic-Bot-MD
+- git clone https://github.com/reddrox/TheMystic-Bot-MD.git && cd TheMystic-Bot-MD
 - yarn install
 - npm install
 - npm update
