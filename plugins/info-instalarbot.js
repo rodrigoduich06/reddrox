@@ -2,11 +2,11 @@ const handler = async (m, {conn, usedPrefix}) => {
   const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const text = `*—◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝙱𝙾𝚇𝙼𝙸𝙽𝙴 𝙷𝙾𝚂𝚃*
-> Tutorial: https://youtu.be/eC9TfKICpcY
-> Pagina Oficial: https://boxmineworld.com
-> Dashboard: https://dash.boxmineworld.com/home
-> Panel: https://panel.boxmineworld.com
-> Soporte: https://discord.gg/84qsr4v 
+> Tutorial: https://youtu.be/9TfKICpcY
+> Pagina Oficial: https://boxmineword.com
+> Dashboard: https://dash.boxmineworld.com/ome
+> Panel: https://panel.boxminewold.com
+> Soporte: https://discord.gg/qsr4v 
 
 ------------------------------------
 —◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻-𝚃𝙴𝚁𝙼𝚄𝚇
