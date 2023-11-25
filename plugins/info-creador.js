@@ -39,7 +39,7 @@ const handler = async (m, {conn, usedPrefix}) => {
         'mediaUrl': 'https://github.com/BrunoSobrino/TheMystic-Bot-MD',
         'mediaType': 2,
         'previewType': 'pdf',
-        'title': '𝔼𝕃 𝕄𝔼𝕁𝕆ℝ 𝔹𝕆𝕋 𝔻𝔼 𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ-𝕄𝔸𝔻𝔼 𝕀ℕ ℝ𝕆𝔻ℝ𝕀𝔾𝕆⁩',
+        'title': 'MADE IN RODRIGO⁩',
         'body': wm,
         'thumbnail': imagen1,
         'sourceUrl': 'https://www.youtube.com/reddrox/UCSTDMKjbm-EmEovkygX-lCA'}},
